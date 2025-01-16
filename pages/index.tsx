@@ -9,8 +9,8 @@ type Segment = {
     "polyline": string;
     "resource_state": number;
   },
-  "effort_count": 66881,
-  "athlete_count": 9630,
+  "effort_count": number;
+  "athlete_count": number;
 }
 
 type Segments = {
